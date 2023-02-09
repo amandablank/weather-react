@@ -15,7 +15,7 @@ export default function Weather(props) {
     <Grid
       height="120"
       width="120"
-      color="#edb9f7"
+      color="#A03599"
       ariaLabel="grid-loading"
       radius="12.5"
       wrapperStyle={{}}
